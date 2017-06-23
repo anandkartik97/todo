@@ -1,7 +1,3 @@
-/**
- * Created by pawan on 7/1/17.
- */
-
 var todoList = localStorage.getItem("toDos");
 
 if (!todoList) {
